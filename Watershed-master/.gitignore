@@ -1,0 +1,7 @@
+# 过滤数据库文件
+*.sdf
+*.opensdf
+
+# 过滤文件夹
+VS2010Project/Release
+VS2010Project/helloopencv/Release
